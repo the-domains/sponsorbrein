@@ -1,28 +1,40 @@
-name: sponsorbrein
-favicon: null
-layout_spectrum: 0.51526
-typography_spectrum: 0.6641145199537277
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.3441802416928113
+  saturation: 0.518386194948107
   brandColors:
     - '#ffffff'
     - '#664992'
     - '#000000'
     - '#dd002c'
     - '#3196bd'
-  brandStrength: 0.34418024169281125
   lightness: 0.3359980678651482
-  saturation: 0.518386194948107
   rhythmicContrast: 0.25
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 0.51526
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
+name: sponsorbrein
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6641145199537277

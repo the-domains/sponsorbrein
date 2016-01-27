@@ -1,6 +1,6 @@
 name: sponsorbrein
 favicon: null
-layout_spectrum: 0.3358827526681125
+layout_spectrum: 0.51526
 typography_spectrum: 0.6641145199537277
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#664992'
+    - '#000000'
+    - '#dd002c'
+    - '#3196bd'
   brandStrength: 0.34418024169281125
   lightness: 0.3359980678651482
   saturation: 0.518386194948107
-  rhythmicContrast: 0.2976032621227205
+  rhythmicContrast: 0.25
 purpose: []
